@@ -1,0 +1,13 @@
+{
+  "title": "Simulator, trained Q-table, and per-seed results for \"Age- and Link-Lifetime-Aware Resource Allocation in UAV–IoV–MEC Networks via RL-Guided PSO–ACO\"",
+  "upload_type": "software",
+  "description": "UAV–IoV–MEC simulator, the RL-guided PSO–ACO optimizer and seven baselines, the trained Q-table, per-interval and per-seed results of all experiments, and Supplementary Tables S1–S4 for the article submitted to Computer Modeling in Engineering & Sciences (CMES). Code is released under the MIT License; data and results under CC BY 4.0.",
+  "creators": [
+    {"name": "Cho, Seongsoo", "affiliation": "Department of Applied Artificial Intelligence, Hansung University"},
+    {"name": "Lee, Yeonwoo", "affiliation": "Department of Artificial Intelligence Engineering, Mokpo National University"},
+    {"name": "Nam, Chae Woo", "affiliation": "Division of Liberal Arts, Electronic Engineering, Wonkwang University"}
+  ],
+  "license": "MIT",
+  "keywords": ["UAV-assisted vehicular edge computing", "resource allocation", "particle swarm optimization", "ant colony optimization", "reinforcement learning", "age of information", "link lifetime"],
+  "access_right": "open"
+}
