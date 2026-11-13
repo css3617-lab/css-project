@@ -4,7 +4,8 @@ Simulator, optimizers, trained Q-table, and per-seed results for the article
 
 > S. Cho, Y. Lee, and C. W. Nam, "Age- and Link-Lifetime-Aware Resource Allocation in UAV–IoV–MEC Networks via RL-Guided PSO–ACO," *Computer Modeling in Engineering & Sciences*, 2026.
 
-Archived version: [Zenodo DOI]
+Repository: https://github.com/css3617-lab/css-project  
+Archived version (Zenodo): DOI to be added after the first release.
 
 ## Contents
 
@@ -50,8 +51,8 @@ Seeds: Q-table training 1000–1059, validation 500–505, test 1–20. CPU time
 
 ## License
 
-Code: [MIT]. Data: [CC BY 4.0].
+Code: MIT License (see `LICENSE`). Data and results in `results/` and `supplementary/`: Creative Commons Attribution 4.0 International (CC BY 4.0).
 
 ## Citation
 
-Please cite the article above and the archived version [Zenodo DOI].
+Please cite the article above and the archived version on Zenodo (see `CITATION.cff`).

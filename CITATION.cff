@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this software or data, please cite the article and the archived version."
+title: "Simulator, trained Q-table, and per-seed results for \"Age- and Link-Lifetime-Aware Resource Allocation in UAV–IoV–MEC Networks via RL-Guided PSO–ACO\""
+type: software
+authors:
+  - family-names: Cho
+    given-names: Seongsoo
+    affiliation: Hansung University
+  - family-names: Lee
+    given-names: Yeonwoo
+    affiliation: Mokpo National University
+  - family-names: Nam
+    given-names: Chae Woo
+    affiliation: Wonkwang University
+repository-code: "https://github.com/css3617-lab/css-project"
+license: MIT
+version: "1.0.0"
+date-released: "2026-11-13"
+keywords:
+  - UAV-assisted vehicular edge computing
+  - resource allocation
+  - particle swarm optimization
+  - ant colony optimization
+  - reinforcement learning
