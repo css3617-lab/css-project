@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+data/wsdream1/ws1_cache.npz
+data/wsdream2/*.txt
+!data/wsdream2/PLACE_DATA_HERE.txt
+data/wsdream2/*.npz
+data/wsdream2/*.zip
+results.zip

@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use this code or the result files, please cite the article below."
+title: "ipaa-mas-service-composition"
+authors:
+  - family-names: Cho
+    given-names: Seongsoo
+    affiliation: "Department of Applied Artificial Intelligence, Hansung University"
+license: MIT
+preferred-citation:
+  type: article
+  title: "Pheromone-retaining multi-agent service composition: a particle-ant hybrid with warm-start adaptation and capacity negotiation evaluated on real QoS data"
+  authors:
+    - family-names: Cho
+      given-names: Seongsoo
+  status: submitted

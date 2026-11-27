@@ -56,3 +56,9 @@ Code: MIT License (see `LICENSE`). Data and results in `results/` and `supplemen
 ## Citation
 
 Please cite the article above and the archived version on Zenodo (see `CITATION.cff`).
+
+## Other projects in this repository
+
+* [`ipaa-mas-service-composition/`](ipaa-mas-service-composition/) – code, WS-DREAM data pointers and complete results for
+  S. Cho, *Pheromone-retaining multi-agent service composition: a particle–ant hybrid with warm-start adaptation and
+  capacity negotiation evaluated on real QoS data* (submitted). See the folder's own README and LICENSE.

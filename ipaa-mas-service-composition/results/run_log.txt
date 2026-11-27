@@ -1,0 +1,578 @@
+===== e1_e2_benchmark Fri Nov 27 04:29:02 UTC 2026
+[E1_synthetic] 3600 jobs, 0 already done, 3600 to run, 2 workers
+[E1_synthetic] 180/3600  elapsed 0.1 min  eta 2.4 min
+[E1_synthetic] 360/3600  elapsed 0.3 min  eta 2.3 min
+[E1_synthetic] 3600 jobs, 458 already done, 3142 to run, 2 workers
+[E1_synthetic] 157/3142  elapsed 0.1 min  eta 2.1 min
+[E1_synthetic] 314/3142  elapsed 0.2 min  eta 2.0 min
+[E1_synthetic] 471/3142  elapsed 0.3 min  eta 1.9 min
+[E1_synthetic] 628/3142  elapsed 0.5 min  eta 1.8 min
+[E1_synthetic] 785/3142  elapsed 0.6 min  eta 1.8 min
+[E1_synthetic] 942/3142  elapsed 0.7 min  eta 1.7 min
+[E1_synthetic] 1099/3142  elapsed 0.8 min  eta 1.6 min
+[E1_synthetic] 1256/3142  elapsed 1.0 min  eta 1.5 min
+[E1_synthetic] 1413/3142  elapsed 1.1 min  eta 1.4 min
+[E1_synthetic] 1570/3142  elapsed 1.2 min  eta 1.2 min
+[E1_synthetic] 1727/3142  elapsed 1.4 min  eta 1.1 min
+[E1_synthetic] 1884/3142  elapsed 1.5 min  eta 1.0 min
+[E1_synthetic] 2041/3142  elapsed 1.7 min  eta 0.9 min
+[E1_synthetic] 2198/3142  elapsed 1.8 min  eta 0.8 min
+[E1_synthetic] 2355/3142  elapsed 2.0 min  eta 0.7 min
+[E1_synthetic] 2512/3142  elapsed 2.2 min  eta 0.5 min
+[E1_synthetic] 2669/3142  elapsed 2.3 min  eta 0.4 min
+[E1_synthetic] 2826/3142  elapsed 2.5 min  eta 0.3 min
+[E1_synthetic] 2983/3142  elapsed 2.7 min  eta 0.1 min
+[E1_synthetic] 3600 jobs, 3479 already done, 121 to run, 2 workers
+[E1_synthetic] 6/121  elapsed 0.0 min  eta 0.2 min
+[E1_synthetic] 12/121  elapsed 0.0 min  eta 0.1 min
+[E1_synthetic] 18/121  elapsed 0.0 min  eta 0.1 min
+[E1_synthetic] 24/121  elapsed 0.0 min  eta 0.1 min
+[E1_synthetic] 30/121  elapsed 0.0 min  eta 0.1 min
+[E1_synthetic] 36/121  elapsed 0.0 min  eta 0.1 min
+[E1_synthetic] 42/121  elapsed 0.1 min  eta 0.1 min
+[E1_synthetic] 48/121  elapsed 0.1 min  eta 0.1 min
+[E1_synthetic] 54/121  elapsed 0.1 min  eta 0.1 min
+[E1_synthetic] 60/121  elapsed 0.1 min  eta 0.1 min
+[E1_synthetic] 66/121  elapsed 0.1 min  eta 0.1 min
+[E1_synthetic] 72/121  elapsed 0.1 min  eta 0.1 min
+[E1_synthetic] 78/121  elapsed 0.1 min  eta 0.1 min
+[E1_synthetic] 84/121  elapsed 0.1 min  eta 0.0 min
+[E1_synthetic] 90/121  elapsed 0.1 min  eta 0.0 min
+[E1_synthetic] 96/121  elapsed 0.1 min  eta 0.0 min
+[E1_synthetic] 102/121  elapsed 0.1 min  eta 0.0 min
+[E1_synthetic] 108/121  elapsed 0.1 min  eta 0.0 min
+[E1_synthetic] 114/121  elapsed 0.1 min  eta 0.0 min
+[E1_synthetic] 120/121  elapsed 0.1 min  eta 0.0 min
+[E1_synthetic] 121/121  elapsed 0.1 min  eta 0.0 min
+[E2_wsdream1] 3600 jobs, 0 already done, 3600 to run, 2 workers
+[E2_wsdream1] 180/3600  elapsed 0.1 min  eta 2.7 min
+[E2_wsdream1] 360/3600  elapsed 0.3 min  eta 2.4 min
+[E2_wsdream1] 540/3600  elapsed 0.4 min  eta 2.3 min
+[E2_wsdream1] 720/3600  elapsed 0.5 min  eta 2.2 min
+[E2_wsdream1] 900/3600  elapsed 0.7 min  eta 2.1 min
+[E2_wsdream1] 1080/3600  elapsed 0.8 min  eta 2.0 min
+[E2_wsdream1] 1260/3600  elapsed 1.0 min  eta 1.9 min
+[E2_wsdream1] 1440/3600  elapsed 1.2 min  eta 1.7 min
+[E2_wsdream1] 1620/3600  elapsed 1.3 min  eta 1.6 min
+[E2_wsdream1] 1800/3600  elapsed 1.5 min  eta 1.5 min
+[E2_wsdream1] 1980/3600  elapsed 1.7 min  eta 1.4 min
+[E2_wsdream1] 2160/3600  elapsed 1.8 min  eta 1.2 min
+[E2_wsdream1] 2340/3600  elapsed 2.0 min  eta 1.1 min
+[E2_wsdream1] 2520/3600  elapsed 2.2 min  eta 0.9 min
+[E2_wsdream1] 2700/3600  elapsed 2.4 min  eta 0.8 min
+[E2_wsdream1] 2880/3600  elapsed 2.6 min  eta 0.6 min
+[E1_synthetic] 3600 jobs, 3600 already done, 0 to run, 2 workers
+[E2_wsdream1] 3600 jobs, 2930 already done, 670 to run, 2 workers
+[E2_wsdream1] 33/670  elapsed 0.0 min  eta 0.9 min
+[E2_wsdream1] 66/670  elapsed 0.1 min  eta 0.8 min
+[E2_wsdream1] 99/670  elapsed 0.1 min  eta 0.7 min
+[E2_wsdream1] 132/670  elapsed 0.2 min  eta 0.7 min
+[E2_wsdream1] 165/670  elapsed 0.2 min  eta 0.6 min
+[E2_wsdream1] 198/670  elapsed 0.2 min  eta 0.6 min
+[E2_wsdream1] 231/670  elapsed 0.3 min  eta 0.5 min
+[E2_wsdream1] 264/670  elapsed 0.3 min  eta 0.5 min
+[E2_wsdream1] 297/670  elapsed 0.4 min  eta 0.5 min
+[E2_wsdream1] 330/670  elapsed 0.4 min  eta 0.4 min
+[E2_wsdream1] 363/670  elapsed 0.4 min  eta 0.4 min
+[E2_wsdream1] 396/670  elapsed 0.5 min  eta 0.3 min
+[E2_wsdream1] 429/670  elapsed 0.5 min  eta 0.3 min
+[E2_wsdream1] 462/670  elapsed 0.6 min  eta 0.3 min
+[E2_wsdream1] 495/670  elapsed 0.6 min  eta 0.2 min
+[E2_wsdream1] 528/670  elapsed 0.7 min  eta 0.2 min
+[E2_wsdream1] 561/670  elapsed 0.7 min  eta 0.1 min
+[E2_wsdream1] 594/670  elapsed 0.7 min  eta 0.1 min
+[E2_wsdream1] 627/670  elapsed 0.8 min  eta 0.1 min
+[E2_wsdream1] 660/670  elapsed 0.8 min  eta 0.0 min
+[E2_wsdream1] 670/670  elapsed 0.8 min  eta 0.0 min
+[E3_optimum] 300 jobs, 0 already done, 300 to run, 2 workers
+[E3_optimum] 15/300  elapsed 0.0 min  eta 0.4 min
+[E3_optimum] 30/300  elapsed 0.0 min  eta 0.3 min
+[E3_optimum] 45/300  elapsed 0.1 min  eta 0.5 min
+[E3_optimum] 60/300  elapsed 0.2 min  eta 0.6 min
+[E3_optimum] 75/300  elapsed 0.9 min  eta 2.6 min
+[E3_optimum] 90/300  elapsed 1.5 min  eta 3.5 min
+[E1_synthetic] 3600 jobs, 3600 already done, 0 to run, 2 workers
+[E2_wsdream1] 3600 jobs, 3600 already done, 0 to run, 2 workers
+[E3_optimum] 300 jobs, 100 already done, 200 to run, 2 workers
+[E3_optimum] 10/200  elapsed 0.4 min  eta 8.1 min
+[E3_optimum] 20/200  elapsed 0.9 min  eta 7.7 min
+[E3_optimum] 30/200  elapsed 1.6 min  eta 9.2 min
+[E3_optimum] 40/200  elapsed 2.4 min  eta 9.6 min
+[E1_synthetic] 3600 jobs, 3600 already done, 0 to run, 2 workers
+[E2_wsdream1] 3600 jobs, 3600 already done, 0 to run, 2 workers
+[E3_optimum] 300 jobs, 144 already done, 156 to run, 2 workers
+[E3_optimum] 7/156  elapsed 0.5 min  eta 10.0 min
+[E3_optimum] 14/156  elapsed 0.5 min  eta 4.8 min
+[E3_optimum] 21/156  elapsed 0.5 min  eta 3.1 min
+[E3_optimum] 28/156  elapsed 0.5 min  eta 2.3 min
+[E3_optimum] 35/156  elapsed 0.5 min  eta 1.7 min
+[E3_optimum] 42/156  elapsed 0.5 min  eta 1.4 min
+[E3_optimum] 49/156  elapsed 0.6 min  eta 1.2 min
+[E3_optimum] 56/156  elapsed 0.6 min  eta 1.1 min
+[E3_optimum] 63/156  elapsed 0.6 min  eta 0.9 min
+[E3_optimum] 70/156  elapsed 0.9 min  eta 1.1 min
+[E3_optimum] 77/156  elapsed 1.3 min  eta 1.3 min
+[E3_optimum] 84/156  elapsed 1.6 min  eta 1.4 min
+[E1_synthetic] 3600 jobs, 3600 already done, 0 to run, 2 workers
+[E2_wsdream1] 3600 jobs, 3600 already done, 0 to run, 2 workers
+[E3_optimum] 300 jobs, 228 already done, 72 to run, 2 workers
+[E3_optimum] 3/72  elapsed 0.2 min  eta 4.9 min
+[E3_optimum] 6/72  elapsed 0.3 min  eta 3.6 min
+[E3_optimum] 9/72  elapsed 0.5 min  eta 3.6 min
+[E3_optimum] 12/72  elapsed 0.6 min  eta 3.2 min
+[E3_optimum] 15/72  elapsed 0.8 min  eta 3.1 min
+[E3_optimum] 18/72  elapsed 0.9 min  eta 2.8 min
+[E3_optimum] 21/72  elapsed 1.1 min  eta 2.7 min
+[E3_optimum] 24/72  elapsed 1.3 min  eta 2.5 min
+[E3_optimum] 27/72  elapsed 1.4 min  eta 2.4 min
+[E3_optimum] 30/72  elapsed 1.6 min  eta 2.2 min
+[E3_optimum] 33/72  elapsed 1.7 min  eta 2.0 min
+[E3_optimum] 36/72  elapsed 1.9 min  eta 1.9 min
+[E3_optimum] 39/72  elapsed 2.0 min  eta 1.7 min
+[E3_optimum] 42/72  elapsed 2.2 min  eta 1.5 min
+[E3_optimum] 45/72  elapsed 2.5 min  eta 1.5 min
+[E3_optimum] 48/72  elapsed 2.7 min  eta 1.4 min
+[E1_synthetic] 3600 jobs, 3600 already done, 0 to run, 2 workers
+[E2_wsdream1] 3600 jobs, 3600 already done, 0 to run, 2 workers
+[E3_optimum] 300 jobs, 276 already done, 24 to run, 2 workers
+[E3_optimum] 1/24  elapsed 0.2 min  eta 4.3 min
+[E3_optimum] 2/24  elapsed 0.2 min  eta 2.1 min
+[E3_optimum] 3/24  elapsed 0.4 min  eta 2.6 min
+[E3_optimum] 4/24  elapsed 0.4 min  eta 1.9 min
+[E3_optimum] 5/24  elapsed 0.6 min  eta 2.1 min
+[E3_optimum] 6/24  elapsed 0.6 min  eta 1.7 min
+[E3_optimum] 7/24  elapsed 0.7 min  eta 1.8 min
+[E3_optimum] 8/24  elapsed 0.7 min  eta 1.5 min
+[E3_optimum] 9/24  elapsed 0.9 min  eta 1.5 min
+[E3_optimum] 10/24  elapsed 0.9 min  eta 1.3 min
+[E3_optimum] 11/24  elapsed 1.1 min  eta 1.3 min
+[E3_optimum] 12/24  elapsed 1.1 min  eta 1.1 min
+[E3_optimum] 13/24  elapsed 1.3 min  eta 1.1 min
+[E3_optimum] 14/24  elapsed 1.3 min  eta 0.9 min
+[E3_optimum] 15/24  elapsed 1.5 min  eta 0.9 min
+[E3_optimum] 16/24  elapsed 1.5 min  eta 0.7 min
+[E3_optimum] 17/24  elapsed 1.7 min  eta 0.7 min
+[E3_optimum] 18/24  elapsed 1.7 min  eta 0.6 min
+[E3_optimum] 19/24  elapsed 1.8 min  eta 0.5 min
+[E3_optimum] 20/24  elapsed 1.8 min  eta 0.4 min
+[E3_optimum] 21/24  elapsed 2.0 min  eta 0.3 min
+[E3_optimum] 22/24  elapsed 2.0 min  eta 0.2 min
+[E3_optimum] 23/24  elapsed 2.2 min  eta 0.1 min
+[E3_optimum] 24/24  elapsed 2.2 min  eta 0.0 min
+[E3_algorithms] 3000 jobs, 0 already done, 3000 to run, 2 workers
+[E3_algorithms] 150/3000  elapsed 0.0 min  eta 0.5 min
+[E3_algorithms] 300/3000  elapsed 0.1 min  eta 0.5 min
+[E3_algorithms] 450/3000  elapsed 0.1 min  eta 0.4 min
+[E3_algorithms] 600/3000  elapsed 0.1 min  eta 0.4 min
+[E3_algorithms] 750/3000  elapsed 0.1 min  eta 0.4 min
+[E3_algorithms] 900/3000  elapsed 0.2 min  eta 0.4 min
+[E3_algorithms] 1050/3000  elapsed 0.2 min  eta 0.3 min
+[E3_algorithms] 1200/3000  elapsed 0.2 min  eta 0.3 min
+[E3_algorithms] 1350/3000  elapsed 0.2 min  eta 0.3 min
+[E3_algorithms] 1500/3000  elapsed 0.3 min  eta 0.3 min
+[E3_algorithms] 1650/3000  elapsed 0.3 min  eta 0.2 min
+[E3_algorithms] 1800/3000  elapsed 0.3 min  eta 0.2 min
+[E3_algorithms] 1950/3000  elapsed 0.3 min  eta 0.2 min
+[E3_algorithms] 2100/3000  elapsed 0.4 min  eta 0.2 min
+[E3_algorithms] 2250/3000  elapsed 0.4 min  eta 0.1 min
+[E3_algorithms] 2400/3000  elapsed 0.4 min  eta 0.1 min
+[E3_algorithms] 2550/3000  elapsed 0.5 min  eta 0.1 min
+[E3_algorithms] 2700/3000  elapsed 0.5 min  eta 0.1 min
+[E3_algorithms] 2850/3000  elapsed 0.5 min  eta 0.0 min
+[E3_algorithms] 3000/3000  elapsed 0.5 min  eta 0.0 min
+[E4_structured] 4800 jobs, 0 already done, 4800 to run, 2 workers
+[E1_synthetic] 3600 jobs, 3600 already done, 0 to run, 2 workers
+[E2_wsdream1] 3600 jobs, 3600 already done, 0 to run, 2 workers
+[E3_optimum] 300 jobs, 300 already done, 0 to run, 2 workers
+[E3_algorithms] 3000 jobs, 3000 already done, 0 to run, 2 workers
+[E4_structured] 4800 jobs, 32 already done, 4768 to run, 2 workers
+[E4_structured] 238/4768  elapsed 0.4 min  eta 7.3 min
+[E4_structured] 476/4768  elapsed 0.8 min  eta 6.9 min
+[E4_structured] 714/4768  elapsed 1.3 min  eta 7.2 min
+[E4_structured] 952/4768  elapsed 1.9 min  eta 7.5 min
+[E4_structured] 1190/4768  elapsed 2.5 min  eta 7.5 min
+[E1_synthetic] 3600 jobs, 3600 already done, 0 to run, 2 workers
+[E2_wsdream1] 3600 jobs, 3600 already done, 0 to run, 2 workers
+[E3_optimum] 300 jobs, 300 already done, 0 to run, 2 workers
+[E3_algorithms] 3000 jobs, 3000 already done, 0 to run, 2 workers
+[E4_structured] 4800 jobs, 1316 already done, 3484 to run, 2 workers
+[E4_structured] 174/3484  elapsed 0.6 min  eta 11.4 min
+[E4_structured] 348/3484  elapsed 1.2 min  eta 10.7 min
+[E4_structured] 522/3484  elapsed 1.9 min  eta 10.6 min
+[E4_structured] 696/3484  elapsed 2.8 min  eta 11.1 min
+[E1_synthetic] 3600 jobs, 3600 already done, 0 to run, 2 workers
+[E2_wsdream1] 3600 jobs, 3600 already done, 0 to run, 2 workers
+[E3_optimum] 300 jobs, 300 already done, 0 to run, 2 workers
+[E3_algorithms] 3000 jobs, 3000 already done, 0 to run, 2 workers
+[E4_structured] 4800 jobs, 2020 already done, 2780 to run, 2 workers
+[E4_structured] 139/2780  elapsed 0.7 min  eta 14.2 min
+[E4_structured] 278/2780  elapsed 1.5 min  eta 13.4 min
+[E4_structured] 417/2780  elapsed 2.1 min  eta 12.0 min
+[E4_structured] 556/2780  elapsed 2.4 min  eta 9.5 min
+[E4_structured] 695/2780  elapsed 2.7 min  eta 8.0 min
+[E1_synthetic] 3600 jobs, 3600 already done, 0 to run, 2 workers
+[E2_wsdream1] 3600 jobs, 3600 already done, 0 to run, 2 workers
+[E3_optimum] 300 jobs, 300 already done, 0 to run, 2 workers
+[E3_algorithms] 3000 jobs, 3000 already done, 0 to run, 2 workers
+[E4_structured] 4800 jobs, 2788 already done, 2012 to run, 2 workers
+[E4_structured] 100/2012  elapsed 0.2 min  eta 3.7 min
+[E4_structured] 200/2012  elapsed 0.4 min  eta 3.5 min
+[E4_structured] 300/2012  elapsed 0.8 min  eta 4.8 min
+[E4_structured] 400/2012  elapsed 1.2 min  eta 4.7 min
+[E4_structured] 500/2012  elapsed 1.5 min  eta 4.4 min
+[E4_structured] 600/2012  elapsed 1.8 min  eta 4.2 min
+[E4_structured] 700/2012  elapsed 2.1 min  eta 3.9 min
+[E4_structured] 800/2012  elapsed 2.4 min  eta 3.6 min
+[E4_structured] 900/2012  elapsed 2.8 min  eta 3.4 min
+[E1_synthetic] 3600 jobs, 3600 already done, 0 to run, 2 workers
+[E2_wsdream1] 3600 jobs, 3600 already done, 0 to run, 2 workers
+[E3_optimum] 300 jobs, 300 already done, 0 to run, 2 workers
+[E3_algorithms] 3000 jobs, 3000 already done, 0 to run, 2 workers
+[E4_structured] 4800 jobs, 3696 already done, 1104 to run, 2 workers
+[E4_structured] 55/1104  elapsed 0.2 min  eta 4.5 min
+[E4_structured] 110/1104  elapsed 0.5 min  eta 4.2 min
+[E4_structured] 165/1104  elapsed 0.7 min  eta 4.0 min
+[E4_structured] 220/1104  elapsed 0.9 min  eta 3.7 min
+[E4_structured] 275/1104  elapsed 1.2 min  eta 3.5 min
+[E4_structured] 330/1104  elapsed 1.4 min  eta 3.2 min
+[E4_structured] 385/1104  elapsed 1.6 min  eta 3.0 min
+[E4_structured] 440/1104  elapsed 1.8 min  eta 2.8 min
+[E4_structured] 495/1104  elapsed 2.1 min  eta 2.6 min
+[E4_structured] 550/1104  elapsed 2.4 min  eta 2.4 min
+[E4_structured] 605/1104  elapsed 2.8 min  eta 2.3 min
+[E1_synthetic] 3600 jobs, 3600 already done, 0 to run, 2 workers
+[E2_wsdream1] 3600 jobs, 3600 already done, 0 to run, 2 workers
+[E3_optimum] 300 jobs, 300 already done, 0 to run, 2 workers
+[E3_algorithms] 3000 jobs, 3000 already done, 0 to run, 2 workers
+[E4_structured] 4800 jobs, 4307 already done, 493 to run, 2 workers
+[E4_structured] 24/493  elapsed 0.2 min  eta 3.2 min
+[E4_structured] 48/493  elapsed 0.3 min  eta 3.0 min
+[E4_structured] 72/493  elapsed 0.5 min  eta 2.8 min
+[E4_structured] 96/493  elapsed 0.6 min  eta 2.7 min
+[E4_structured] 120/493  elapsed 0.8 min  eta 2.5 min
+[E4_structured] 144/493  elapsed 1.0 min  eta 2.3 min
+[E4_structured] 168/493  elapsed 1.1 min  eta 2.2 min
+[E4_structured] 192/493  elapsed 1.3 min  eta 2.0 min
+[E4_structured] 216/493  elapsed 1.4 min  eta 1.8 min
+[E4_structured] 240/493  elapsed 1.6 min  eta 1.7 min
+[E4_structured] 264/493  elapsed 1.8 min  eta 1.5 min
+[E4_structured] 288/493  elapsed 1.9 min  eta 1.4 min
+[E4_structured] 312/493  elapsed 2.1 min  eta 1.2 min
+[E4_structured] 336/493  elapsed 2.2 min  eta 1.0 min
+[E4_structured] 360/493  elapsed 2.4 min  eta 0.9 min
+[E4_structured] 384/493  elapsed 2.6 min  eta 0.7 min
+[E4_structured] 408/493  elapsed 2.7 min  eta 0.6 min
+[E1_synthetic] 3600 jobs, 3600 already done, 0 to run, 2 workers
+[E2_wsdream1] 3600 jobs, 3600 already done, 0 to run, 2 workers
+[E3_optimum] 300 jobs, 300 already done, 0 to run, 2 workers
+[E3_algorithms] 3000 jobs, 3000 already done, 0 to run, 2 workers
+[E4_structured] 4800 jobs, 4727 already done, 73 to run, 2 workers
+[E4_structured] 3/73  elapsed 0.0 min  eta 0.7 min
+[E4_structured] 6/73  elapsed 0.0 min  eta 0.5 min
+[E4_structured] 9/73  elapsed 0.1 min  eta 0.5 min
+[E4_structured] 12/73  elapsed 0.1 min  eta 0.4 min
+[E4_structured] 15/73  elapsed 0.1 min  eta 0.4 min
+[E4_structured] 18/73  elapsed 0.1 min  eta 0.4 min
+[E4_structured] 21/73  elapsed 0.1 min  eta 0.4 min
+[E4_structured] 24/73  elapsed 0.2 min  eta 0.3 min
+[E4_structured] 27/73  elapsed 0.2 min  eta 0.3 min
+[E4_structured] 30/73  elapsed 0.2 min  eta 0.3 min
+[E4_structured] 33/73  elapsed 0.2 min  eta 0.3 min
+[E4_structured] 36/73  elapsed 0.2 min  eta 0.3 min
+[E4_structured] 39/73  elapsed 0.3 min  eta 0.2 min
+[E4_structured] 42/73  elapsed 0.3 min  eta 0.2 min
+[E4_structured] 45/73  elapsed 0.3 min  eta 0.2 min
+[E4_structured] 48/73  elapsed 0.3 min  eta 0.2 min
+[E4_structured] 51/73  elapsed 0.4 min  eta 0.2 min
+[E4_structured] 54/73  elapsed 0.4 min  eta 0.1 min
+[E4_structured] 57/73  elapsed 0.4 min  eta 0.1 min
+[E4_structured] 60/73  elapsed 0.4 min  eta 0.1 min
+[E4_structured] 63/73  elapsed 0.4 min  eta 0.1 min
+[E4_structured] 66/73  elapsed 0.5 min  eta 0.0 min
+[E4_structured] 69/73  elapsed 0.5 min  eta 0.0 min
+[E4_structured] 72/73  elapsed 0.5 min  eta 0.0 min
+[E4_structured] 73/73  elapsed 0.5 min  eta 0.0 min
+[E5_sensitivity] 4400 jobs, 0 already done, 4400 to run, 2 workers
+[E5_sensitivity] 220/4400  elapsed 0.3 min  eta 5.0 min
+[E5_sensitivity] 440/4400  elapsed 0.5 min  eta 4.8 min
+[E5_sensitivity] 660/4400  elapsed 0.8 min  eta 4.5 min
+[E5_sensitivity] 880/4400  elapsed 1.1 min  eta 4.2 min
+[E5_sensitivity] 1100/4400  elapsed 1.3 min  eta 4.0 min
+[E5_sensitivity] 1320/4400  elapsed 1.7 min  eta 3.9 min
+[E5_sensitivity] 1540/4400  elapsed 2.0 min  eta 3.8 min
+[E1_synthetic] 3600 jobs, 3600 already done, 0 to run, 2 workers
+[E2_wsdream1] 3600 jobs, 3600 already done, 0 to run, 2 workers
+[E3_optimum] 300 jobs, 300 already done, 0 to run, 2 workers
+[E3_algorithms] 3000 jobs, 3000 already done, 0 to run, 2 workers
+[E4_structured] 4800 jobs, 4800 already done, 0 to run, 2 workers
+[E5_sensitivity] 4400 jobs, 1708 already done, 2692 to run, 2 workers
+[E5_sensitivity] 134/2692  elapsed 0.2 min  eta 4.2 min
+[E5_sensitivity] 268/2692  elapsed 0.4 min  eta 4.0 min
+[E5_sensitivity] 402/2692  elapsed 0.7 min  eta 3.7 min
+[E5_sensitivity] 536/2692  elapsed 0.9 min  eta 3.5 min
+[E5_sensitivity] 670/2692  elapsed 1.0 min  eta 3.1 min
+[E5_sensitivity] 804/2692  elapsed 1.2 min  eta 2.8 min
+[E5_sensitivity] 938/2692  elapsed 1.4 min  eta 2.6 min
+[E5_sensitivity] 1072/2692  elapsed 1.6 min  eta 2.3 min
+[E5_sensitivity] 1206/2692  elapsed 1.7 min  eta 2.1 min
+[E5_sensitivity] 1340/2692  elapsed 1.9 min  eta 1.9 min
+[E5_sensitivity] 1474/2692  elapsed 2.1 min  eta 1.7 min
+[E5_sensitivity] 1608/2692  elapsed 2.2 min  eta 1.5 min
+[E5_sensitivity] 1742/2692  elapsed 2.5 min  eta 1.3 min
+[E5_sensitivity] 1876/2692  elapsed 2.7 min  eta 1.2 min
+[E1_synthetic] 3600 jobs, 3600 already done, 0 to run, 2 workers
+[E2_wsdream1] 3600 jobs, 3600 already done, 0 to run, 2 workers
+[E3_optimum] 300 jobs, 300 already done, 0 to run, 2 workers
+[E3_algorithms] 3000 jobs, 3000 already done, 0 to run, 2 workers
+[E4_structured] 4800 jobs, 4800 already done, 0 to run, 2 workers
+[E5_sensitivity] 4400 jobs, 3637 already done, 763 to run, 2 workers
+[E5_sensitivity] 38/763  elapsed 0.1 min  eta 1.4 min
+[E5_sensitivity] 76/763  elapsed 0.1 min  eta 1.2 min
+[E5_sensitivity] 114/763  elapsed 0.2 min  eta 1.1 min
+[E5_sensitivity] 152/763  elapsed 0.3 min  eta 1.1 min
+[E5_sensitivity] 190/763  elapsed 0.3 min  eta 1.0 min
+[E5_sensitivity] 228/763  elapsed 0.4 min  eta 0.9 min
+[E5_sensitivity] 266/763  elapsed 0.5 min  eta 0.9 min
+[E5_sensitivity] 304/763  elapsed 0.5 min  eta 0.8 min
+[E5_sensitivity] 342/763  elapsed 0.6 min  eta 0.7 min
+[E5_sensitivity] 380/763  elapsed 0.6 min  eta 0.7 min
+[E5_sensitivity] 418/763  elapsed 0.7 min  eta 0.6 min
+[E5_sensitivity] 456/763  elapsed 0.8 min  eta 0.5 min
+[E5_sensitivity] 494/763  elapsed 0.8 min  eta 0.5 min
+[E5_sensitivity] 532/763  elapsed 0.9 min  eta 0.4 min
+[E5_sensitivity] 570/763  elapsed 1.0 min  eta 0.3 min
+[E5_sensitivity] 608/763  elapsed 1.0 min  eta 0.3 min
+[E5_sensitivity] 646/763  elapsed 1.1 min  eta 0.2 min
+[E5_sensitivity] 684/763  elapsed 1.2 min  eta 0.1 min
+[E5_sensitivity] 722/763  elapsed 1.2 min  eta 0.1 min
+[E5_sensitivity] 760/763  elapsed 1.3 min  eta 0.0 min
+[E5_sensitivity] 763/763  elapsed 1.3 min  eta 0.0 min
+[E6_largescale] 600 jobs, 0 already done, 600 to run, 2 workers
+[E6_largescale] 30/600  elapsed 0.1 min  eta 1.7 min
+[E6_largescale] 60/600  elapsed 0.2 min  eta 1.6 min
+[E6_largescale] 90/600  elapsed 0.3 min  eta 1.6 min
+[E6_largescale] 120/600  elapsed 0.4 min  eta 1.5 min
+[E6_largescale] 150/600  elapsed 0.5 min  eta 1.6 min
+[E6_largescale] 180/600  elapsed 0.7 min  eta 1.7 min
+[E6_largescale] 210/600  elapsed 0.9 min  eta 1.7 min
+[E6_largescale] 240/600  elapsed 1.2 min  eta 1.8 min
+[E6_largescale] 270/600  elapsed 1.4 min  eta 1.7 min
+[E1_synthetic] 3600 jobs, 3600 already done, 0 to run, 2 workers
+[E2_wsdream1] 3600 jobs, 3600 already done, 0 to run, 2 workers
+[E3_optimum] 300 jobs, 300 already done, 0 to run, 2 workers
+[E3_algorithms] 3000 jobs, 3000 already done, 0 to run, 2 workers
+[E4_structured] 4800 jobs, 4800 already done, 0 to run, 2 workers
+[E5_sensitivity] 4400 jobs, 4400 already done, 0 to run, 2 workers
+[E6_largescale] 600 jobs, 278 already done, 322 to run, 2 workers
+[E6_largescale] 16/322  elapsed 0.1 min  eta 1.8 min
+[E6_largescale] 32/322  elapsed 0.2 min  eta 1.6 min
+[E6_largescale] 48/322  elapsed 0.3 min  eta 1.4 min
+[E6_largescale] 64/322  elapsed 0.3 min  eta 1.3 min
+[E6_largescale] 80/322  elapsed 0.4 min  eta 1.2 min
+[E6_largescale] 96/322  elapsed 0.5 min  eta 1.1 min
+[E6_largescale] 112/322  elapsed 0.5 min  eta 1.0 min
+[E6_largescale] 128/322  elapsed 0.6 min  eta 0.9 min
+[E6_largescale] 144/322  elapsed 0.7 min  eta 0.9 min
+[E6_largescale] 160/322  elapsed 0.8 min  eta 0.8 min
+[E6_largescale] 176/322  elapsed 0.9 min  eta 0.8 min
+[E6_largescale] 192/322  elapsed 1.0 min  eta 0.7 min
+[E6_largescale] 208/322  elapsed 1.1 min  eta 0.6 min
+[E6_largescale] 224/322  elapsed 1.3 min  eta 0.5 min
+[E6_largescale] 240/322  elapsed 1.4 min  eta 0.5 min
+[E6_largescale] 256/322  elapsed 1.5 min  eta 0.4 min
+[E6_largescale] 272/322  elapsed 1.7 min  eta 0.3 min
+[E6_largescale] 288/322  elapsed 1.8 min  eta 0.2 min
+[E6_largescale] 304/322  elapsed 2.0 min  eta 0.1 min
+[E6_largescale] 320/322  elapsed 2.1 min  eta 0.0 min
+[E6_largescale] 322/322  elapsed 2.1 min  eta 0.0 min
+[E7a_dynamic_synthetic] 150 jobs, 0 already done, 150 to run, 2 workers
+[E7a_dynamic_synthetic] 7/150  elapsed 0.0 min  eta 0.4 min
+[E7a_dynamic_synthetic] 14/150  elapsed 0.0 min  eta 0.3 min
+[E7a_dynamic_synthetic] 21/150  elapsed 0.0 min  eta 0.3 min
+[E7a_dynamic_synthetic] 28/150  elapsed 0.1 min  eta 0.3 min
+[E7a_dynamic_synthetic] 35/150  elapsed 0.1 min  eta 0.3 min
+[E7a_dynamic_synthetic] 42/150  elapsed 0.1 min  eta 0.3 min
+[E7a_dynamic_synthetic] 49/150  elapsed 0.1 min  eta 0.2 min
+[E7a_dynamic_synthetic] 56/150  elapsed 0.1 min  eta 0.2 min
+[E7a_dynamic_synthetic] 63/150  elapsed 0.2 min  eta 0.2 min
+[E7a_dynamic_synthetic] 70/150  elapsed 0.2 min  eta 0.2 min
+[E7a_dynamic_synthetic] 77/150  elapsed 0.2 min  eta 0.2 min
+[E7a_dynamic_synthetic] 84/150  elapsed 0.2 min  eta 0.2 min
+[E7a_dynamic_synthetic] 91/150  elapsed 0.2 min  eta 0.1 min
+[E7a_dynamic_synthetic] 98/150  elapsed 0.2 min  eta 0.1 min
+[E7a_dynamic_synthetic] 105/150  elapsed 0.2 min  eta 0.1 min
+[E7a_dynamic_synthetic] 112/150  elapsed 0.3 min  eta 0.1 min
+[E7a_dynamic_synthetic] 119/150  elapsed 0.3 min  eta 0.1 min
+[E7a_dynamic_synthetic] 126/150  elapsed 0.3 min  eta 0.1 min
+[E7a_dynamic_synthetic] 133/150  elapsed 0.3 min  eta 0.0 min
+[E7a_dynamic_synthetic] 140/150  elapsed 0.3 min  eta 0.0 min
+[E7a_dynamic_synthetic] 147/150  elapsed 0.4 min  eta 0.0 min
+[E7a_dynamic_synthetic] 150/150  elapsed 0.4 min  eta 0.0 min
+[E7b_failure_sweep] 320 jobs, 0 already done, 320 to run, 2 workers
+[E7b_failure_sweep] 16/320  elapsed 0.0 min  eta 0.6 min
+[E7b_failure_sweep] 32/320  elapsed 0.1 min  eta 0.6 min
+[E7b_failure_sweep] 48/320  elapsed 0.1 min  eta 0.5 min
+[E7b_failure_sweep] 64/320  elapsed 0.1 min  eta 0.5 min
+[E7b_failure_sweep] 80/320  elapsed 0.2 min  eta 0.5 min
+[E7b_failure_sweep] 96/320  elapsed 0.2 min  eta 0.5 min
+[E7b_failure_sweep] 112/320  elapsed 0.3 min  eta 0.5 min
+[E1_synthetic] 3600 jobs, 3600 already done, 0 to run, 2 workers
+[E2_wsdream1] 3600 jobs, 3600 already done, 0 to run, 2 workers
+[E3_optimum] 300 jobs, 300 already done, 0 to run, 2 workers
+[E3_algorithms] 3000 jobs, 3000 already done, 0 to run, 2 workers
+[E4_structured] 4800 jobs, 4800 already done, 0 to run, 2 workers
+[E5_sensitivity] 4400 jobs, 4400 already done, 0 to run, 2 workers
+[E6_largescale] 600 jobs, 600 already done, 0 to run, 2 workers
+[E7a_dynamic_synthetic] 150 jobs, 150 already done, 0 to run, 2 workers
+[E7b_failure_sweep] 320 jobs, 120 already done, 200 to run, 2 workers
+[E7b_failure_sweep] 10/200  elapsed 0.0 min  eta 0.6 min
+[E7b_failure_sweep] 20/200  elapsed 0.1 min  eta 0.5 min
+[E7b_failure_sweep] 30/200  elapsed 0.1 min  eta 0.5 min
+[E7b_failure_sweep] 40/200  elapsed 0.1 min  eta 0.5 min
+[E7b_failure_sweep] 50/200  elapsed 0.2 min  eta 0.5 min
+[E7b_failure_sweep] 60/200  elapsed 0.2 min  eta 0.5 min
+[E7b_failure_sweep] 70/200  elapsed 0.3 min  eta 0.5 min
+[E7b_failure_sweep] 80/200  elapsed 0.3 min  eta 0.5 min
+[E7b_failure_sweep] 90/200  elapsed 0.4 min  eta 0.4 min
+[E7b_failure_sweep] 100/200  elapsed 0.4 min  eta 0.4 min
+[E7b_failure_sweep] 110/200  elapsed 0.5 min  eta 0.4 min
+[E7b_failure_sweep] 120/200  elapsed 0.5 min  eta 0.3 min
+[E7b_failure_sweep] 130/200  elapsed 0.6 min  eta 0.3 min
+[E7b_failure_sweep] 140/200  elapsed 0.7 min  eta 0.3 min
+[E7b_failure_sweep] 150/200  elapsed 0.8 min  eta 0.3 min
+[E7b_failure_sweep] 160/200  elapsed 0.8 min  eta 0.2 min
+[E7b_failure_sweep] 170/200  elapsed 0.9 min  eta 0.2 min
+[E7b_failure_sweep] 180/200  elapsed 1.0 min  eta 0.1 min
+[E7b_failure_sweep] 190/200  elapsed 1.1 min  eta 0.1 min
+[E7b_failure_sweep] 200/200  elapsed 1.2 min  eta 0.0 min
+[E7c_dynamic_wsdream2] 150 jobs, 0 already done, 150 to run, 2 workers
+[E7c_dynamic_wsdream2] 7/150  elapsed 0.0 min  eta 0.2 min
+[E7c_dynamic_wsdream2] 14/150  elapsed 0.0 min  eta 0.1 min
+[E7c_dynamic_wsdream2] 21/150  elapsed 0.0 min  eta 0.1 min
+[E7c_dynamic_wsdream2] 28/150  elapsed 0.0 min  eta 0.1 min
+[E7c_dynamic_wsdream2] 35/150  elapsed 0.0 min  eta 0.1 min
+[E7c_dynamic_wsdream2] 42/150  elapsed 0.0 min  eta 0.1 min
+[E7c_dynamic_wsdream2] 49/150  elapsed 0.1 min  eta 0.1 min
+[E7c_dynamic_wsdream2] 56/150  elapsed 0.1 min  eta 0.1 min
+[E7c_dynamic_wsdream2] 63/150  elapsed 0.1 min  eta 0.1 min
+[E7c_dynamic_wsdream2] 70/150  elapsed 0.1 min  eta 0.1 min
+[E7c_dynamic_wsdream2] 77/150  elapsed 0.1 min  eta 0.1 min
+[E7c_dynamic_wsdream2] 84/150  elapsed 0.1 min  eta 0.1 min
+[E7c_dynamic_wsdream2] 91/150  elapsed 0.1 min  eta 0.1 min
+[E7c_dynamic_wsdream2] 98/150  elapsed 0.1 min  eta 0.0 min
+[E7c_dynamic_wsdream2] 105/150  elapsed 0.1 min  eta 0.0 min
+[E7c_dynamic_wsdream2] 112/150  elapsed 0.1 min  eta 0.0 min
+[E7c_dynamic_wsdream2] 119/150  elapsed 0.1 min  eta 0.0 min
+[E7c_dynamic_wsdream2] 126/150  elapsed 0.1 min  eta 0.0 min
+[E7c_dynamic_wsdream2] 133/150  elapsed 0.1 min  eta 0.0 min
+[E7c_dynamic_wsdream2] 140/150  elapsed 0.1 min  eta 0.0 min
+[E7c_dynamic_wsdream2] 147/150  elapsed 0.1 min  eta 0.0 min
+[E7c_dynamic_wsdream2] 150/150  elapsed 0.1 min  eta 0.0 min
+[E8_negotiation] 450 jobs, 0 already done, 450 to run, 2 workers
+[E8_negotiation] 22/450  elapsed 0.1 min  eta 2.0 min
+[E8_negotiation] 44/450  elapsed 0.2 min  eta 1.9 min
+[E8_negotiation] 66/450  elapsed 0.3 min  eta 1.8 min
+[E8_negotiation] 88/450  elapsed 0.4 min  eta 1.7 min
+[E8_negotiation] 110/450  elapsed 0.5 min  eta 1.7 min
+[E8_negotiation] 132/450  elapsed 0.6 min  eta 1.6 min
+[E8_negotiation] 154/450  elapsed 0.8 min  eta 1.5 min
+[E8_negotiation] 176/450  elapsed 1.1 min  eta 1.7 min
+[E8_negotiation] 198/450  elapsed 1.4 min  eta 1.8 min
+[E1_synthetic] 3600 jobs, 3600 already done, 0 to run, 2 workers
+[E2_wsdream1] 3600 jobs, 3600 already done, 0 to run, 2 workers
+[E3_optimum] 300 jobs, 300 already done, 0 to run, 2 workers
+[E3_algorithms] 3000 jobs, 3000 already done, 0 to run, 2 workers
+[E4_structured] 4800 jobs, 4800 already done, 0 to run, 2 workers
+[E5_sensitivity] 4400 jobs, 4400 already done, 0 to run, 2 workers
+[E6_largescale] 600 jobs, 600 already done, 0 to run, 2 workers
+[E7a_dynamic_synthetic] 150 jobs, 150 already done, 0 to run, 2 workers
+[E7b_failure_sweep] 320 jobs, 320 already done, 0 to run, 2 workers
+[E7c_dynamic_wsdream2] 150 jobs, 150 already done, 0 to run, 2 workers
+[E8_negotiation] 450 jobs, 198 already done, 252 to run, 2 workers
+[E8_negotiation] 12/252  elapsed 0.3 min  eta 5.5 min
+[E8_negotiation] 24/252  elapsed 0.5 min  eta 4.3 min
+[E8_negotiation] 36/252  elapsed 0.6 min  eta 3.8 min
+[E8_negotiation] 48/252  elapsed 0.8 min  eta 3.4 min
+[E8_negotiation] 60/252  elapsed 1.0 min  eta 3.2 min
+[E8_negotiation] 72/252  elapsed 1.2 min  eta 3.1 min
+[E8_negotiation] 84/252  elapsed 1.4 min  eta 2.8 min
+[E8_negotiation] 96/252  elapsed 1.6 min  eta 2.6 min
+[E8_negotiation] 108/252  elapsed 1.8 min  eta 2.4 min
+[E8_negotiation] 120/252  elapsed 2.2 min  eta 2.4 min
+[E8_negotiation] 132/252  elapsed 2.7 min  eta 2.5 min
+[E1_synthetic] 3600 jobs, 3600 already done, 0 to run, 2 workers
+[E2_wsdream1] 3600 jobs, 3600 already done, 0 to run, 2 workers
+[E3_optimum] 300 jobs, 300 already done, 0 to run, 2 workers
+[E3_algorithms] 3000 jobs, 3000 already done, 0 to run, 2 workers
+[E4_structured] 4800 jobs, 4800 already done, 0 to run, 2 workers
+[E5_sensitivity] 4400 jobs, 4400 already done, 0 to run, 2 workers
+[E6_largescale] 600 jobs, 600 already done, 0 to run, 2 workers
+[E7a_dynamic_synthetic] 150 jobs, 150 already done, 0 to run, 2 workers
+[E7b_failure_sweep] 320 jobs, 320 already done, 0 to run, 2 workers
+[E7c_dynamic_wsdream2] 150 jobs, 150 already done, 0 to run, 2 workers
+[E8_negotiation] 450 jobs, 331 already done, 119 to run, 2 workers
+[E8_negotiation] 5/119  elapsed 0.3 min  eta 6.7 min
+[E8_negotiation] 10/119  elapsed 0.4 min  eta 4.0 min
+[E8_negotiation] 15/119  elapsed 0.6 min  eta 4.3 min
+[E8_negotiation] 20/119  elapsed 0.7 min  eta 3.4 min
+[E8_negotiation] 25/119  elapsed 0.9 min  eta 3.6 min
+[E8_negotiation] 30/119  elapsed 1.0 min  eta 3.1 min
+[E8_negotiation] 35/119  elapsed 1.3 min  eta 3.1 min
+[E8_negotiation] 40/119  elapsed 1.4 min  eta 2.7 min
+[E8_negotiation] 45/119  elapsed 1.6 min  eta 2.7 min
+[E8_negotiation] 50/119  elapsed 1.7 min  eta 2.4 min
+[E8_negotiation] 55/119  elapsed 2.0 min  eta 2.3 min
+[E8_negotiation] 60/119  elapsed 2.0 min  eta 2.0 min
+[E8_negotiation] 65/119  elapsed 2.3 min  eta 1.9 min
+[E8_negotiation] 70/119  elapsed 2.4 min  eta 1.7 min
+[E8_negotiation] 75/119  elapsed 2.6 min  eta 1.6 min
+[E8_negotiation] 80/119  elapsed 2.7 min  eta 1.3 min
+[E1_synthetic] 3600 jobs, 3600 already done, 0 to run, 2 workers
+[E2_wsdream1] 3600 jobs, 3600 already done, 0 to run, 2 workers
+[E3_optimum] 300 jobs, 300 already done, 0 to run, 2 workers
+[E3_algorithms] 3000 jobs, 3000 already done, 0 to run, 2 workers
+[E4_structured] 4800 jobs, 4800 already done, 0 to run, 2 workers
+[E5_sensitivity] 4400 jobs, 4400 already done, 0 to run, 2 workers
+[E6_largescale] 600 jobs, 600 already done, 0 to run, 2 workers
+[E7a_dynamic_synthetic] 150 jobs, 150 already done, 0 to run, 2 workers
+[E7b_failure_sweep] 320 jobs, 320 already done, 0 to run, 2 workers
+[E7c_dynamic_wsdream2] 150 jobs, 150 already done, 0 to run, 2 workers
+[E8_negotiation] 450 jobs, 413 already done, 37 to run, 2 workers
+[E8_negotiation] 1/37  elapsed 0.3 min  eta 10.3 min
+[E8_negotiation] 2/37  elapsed 0.3 min  eta 5.0 min
+[E8_negotiation] 3/37  elapsed 0.3 min  eta 3.4 min
+[E8_negotiation] 4/37  elapsed 0.3 min  eta 2.5 min
+[E8_negotiation] 5/37  elapsed 0.3 min  eta 2.0 min
+[E8_negotiation] 6/37  elapsed 0.3 min  eta 1.6 min
+[E8_negotiation] 7/37  elapsed 0.3 min  eta 1.4 min
+[E8_negotiation] 8/37  elapsed 0.3 min  eta 1.2 min
+[E8_negotiation] 9/37  elapsed 0.4 min  eta 1.1 min
+[E8_negotiation] 10/37  elapsed 0.4 min  eta 1.1 min
+[E8_negotiation] 11/37  elapsed 0.6 min  eta 1.4 min
+[E8_negotiation] 12/37  elapsed 0.6 min  eta 1.3 min
+[E8_negotiation] 13/37  elapsed 0.6 min  eta 1.1 min
+[E8_negotiation] 14/37  elapsed 0.6 min  eta 1.1 min
+[E8_negotiation] 15/37  elapsed 0.7 min  eta 1.0 min
+[E8_negotiation] 16/37  elapsed 0.7 min  eta 0.9 min
+[E8_negotiation] 17/37  elapsed 0.7 min  eta 0.8 min
+[E8_negotiation] 18/37  elapsed 0.7 min  eta 0.7 min
+[E8_negotiation] 19/37  elapsed 0.7 min  eta 0.7 min
+[E8_negotiation] 20/37  elapsed 0.7 min  eta 0.6 min
+[E8_negotiation] 21/37  elapsed 1.0 min  eta 0.7 min
+[E8_negotiation] 22/37  elapsed 1.0 min  eta 0.7 min
+[E8_negotiation] 23/37  elapsed 1.0 min  eta 0.6 min
+[E8_negotiation] 24/37  elapsed 1.0 min  eta 0.5 min
+[E8_negotiation] 25/37  elapsed 1.0 min  eta 0.5 min
+[E8_negotiation] 26/37  elapsed 1.0 min  eta 0.4 min
+[E8_negotiation] 27/37  elapsed 1.0 min  eta 0.4 min
+[E8_negotiation] 28/37  elapsed 1.0 min  eta 0.3 min
+[E8_negotiation] 29/37  elapsed 1.1 min  eta 0.3 min
+[E8_negotiation] 30/37  elapsed 1.1 min  eta 0.3 min
+[E8_negotiation] 31/37  elapsed 1.3 min  eta 0.3 min
+[E8_negotiation] 32/37  elapsed 1.3 min  eta 0.2 min
+[E8_negotiation] 33/37  elapsed 1.3 min  eta 0.2 min
+[E8_negotiation] 34/37  elapsed 1.3 min  eta 0.1 min
+[E8_negotiation] 35/37  elapsed 1.4 min  eta 0.1 min
+[E8_negotiation] 36/37  elapsed 1.4 min  eta 0.0 min
+[E8_negotiation] 37/37  elapsed 1.6 min  eta 0.0 min
+ALL DONE Fri Nov 27 05:30:44 UTC 2026
